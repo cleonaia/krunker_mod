@@ -112,14 +112,6 @@ krunker-client-tools/
 └── krunker_team_gate_tests.js
 ```
 
-## Roadmap
-
-- [ ] Validate compatibility with the current game version.
-- [ ] Document the source and trust model for team metadata.
-- [ ] Expand unit tests for malformed and changing team data.
-- [ ] Improve error handling and diagnostics.
-- [ ] Document supported browser versions and known limitations.
-
 ## Author
 
 **GitHub:** [@cleonaia](https://github.com/cleonaia)
